@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://master.dl.sourceforge.net/project/pixelextended/Lavender/PixelExtended_lavender-11-20201121-2012-OFFICIAL.zip
-  ROM_NAME: PixelExtended
+  ROM_URL: https://hugeota.d.miui.com/20.11.19/miui_GINKGO_20.11.19_b79281f08d_10.0.zip
+  ROM_NAME: Miui
   TZ: America/Bahia
 
 jobs:
