@@ -15,7 +15,7 @@ ROM_NAME o mesmo que preencher um toque, a mesma ROM sob ele;
 # 9 Pie: 
 ColorOS	
 Flyme
-Genérico
+Generic
 Miui	
 Moto	
 Nubia	
