@@ -5,9 +5,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.11.19/miui_GINKGO_20.11.19_b79281f08d_10.0.zip
-  ROM_NAME: MIUI
-  TZ: America/Sao_Paulo
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus6Oxygen/OnePlus6Oxygen_22.J.48_GLO_048_2010042239/OnePlus6Oxygen_22.J.48_OTA_048_all_2010042239_c0c1fee2ee.zip
+  ROM_NAME: OnePlus6Oxygen_22.J.48_GLO_048_2010042239
+  TZ: America/Mato_Grosso
 
 jobs:
   build:
